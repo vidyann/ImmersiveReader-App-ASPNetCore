@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vinara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vinara\\.nuget\\packages"
+    ]
+  }
+}
